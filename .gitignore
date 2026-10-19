@@ -1,0 +1,13 @@
+# ignore everything, then allow only the research files by name
+/*
+!/.gitignore
+!/gap_check.py
+!/fut_check.py
+!/event_drift_check.py
+!/straddle_check.py
+!/research_log.py
+!/paper_review.py
+!/research/
+/research/*
+!/research/hypotheses/
+!/research/test_log.csv

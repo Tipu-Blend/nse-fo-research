@@ -1,0 +1,2 @@
+AMENDED 2026-10-20 (before any valid result): first run ranked universe by same-day turnover, which biased the benchmark (both event types showed -12.6%, win 13%). Universe now ranks by prior 20-day median turnover. No thresholds changed. The buggy run counts as 4 discarded trials.
+RESULT 2026-10-20: net@30 = +18.3 bps/trade (t=1.0), gross +48.3 (t=2.7). Fails PASS (needs +30 and t>=3), not KILL. 2024 and 2025 negative. Parked; only forward events from 2026-10-19 count as holdout. No tuning allowed.
