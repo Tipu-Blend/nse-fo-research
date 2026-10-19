@@ -11,3 +11,4 @@
 /research/*
 !/research/hypotheses/
 !/research/test_log.csv
+!/README.md
